@@ -314,6 +314,7 @@ Santanu
 - [Idayat Abdulsalam](https://github.com/Abdulsalam13)
 - [Alex Oladele](https://github.com/dragid10)
 apleht
+sgarg24
 - [Tim Austin](https://github.com/neenjaw)
 - [Daman Tekchandani](https://github.com/daman98)
 - [Mancee](https://github.com/mancee)
